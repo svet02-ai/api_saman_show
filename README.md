@@ -41,3 +41,5 @@ Usando la librería request de python realizaran una petición GET a dicho URL e
 }
  
 ```
+
+**Endpoint:** https://raw.githubusercontent.com/Algoritmos-y-Programacion/api_saman_show/main/api.json
