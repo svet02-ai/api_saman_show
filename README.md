@@ -35,7 +35,8 @@ Usando la librería request de python realizaran una petición GET a dicho URL e
         "name": String (nombre de la comida),
         "price": Float (precio de la comida),
         "amount": Int (cantidad de inventario),
-        "type": Int ([1]Comida, [2]Bebida)
+        "type": Int ([1]Comida, [2]Bebida),
+        "presentation": (Si es comida [1]Preparacion, [2]Empaque)
     }, 
   ] 
 }
