@@ -29,7 +29,7 @@ Usando la librería request de python realizaran una petición GET a dicho URL e
             "date": "2022-04-01" (String (Fecha del evento año/mes/dia)
         },
      }
-  ]
+  ],
    "food_fair_inventory": [
     {
         "name": String (nombre de la comida),
