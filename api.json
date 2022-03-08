@@ -95,13 +95,15 @@
         "name": "Pizza",
         "price": 11.99,
         "amount": 230,
-         "type": 1
+        "presentation": 1,
+        "type": 1
     },
     {
         "name": "Hamburguesa",
         "price": 25.99,
         "amount": 250,
-         "type": 1
+        "presentation": 1,
+        "type": 1
     },
     {
         "name": "Jugo",
@@ -112,7 +114,23 @@
     {
         "name": "Cerveza",
         "price": 6.99,
-        "amount": 300
-    }
+        "amount": 300,
+        "type": 1
+    },
+    {
+        "name": "Doritos",
+        "price": 4.99,
+        "amount": 500,
+        "presentation": 2,
+        "type": 1
+    },
+    {
+        "name": "Platanitos",
+        "price": 3.99,
+        "amount": 734,
+        "presentation": 2,
+        "type": 1
+    },
+        
     ]
 }
