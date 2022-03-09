@@ -13,7 +13,7 @@ Usando la librería request de python realizaran una petición GET a dicho URL e
             "title": String,
             "type": Int (tipo de evento: [1]Musical, [2]Obra de Teatro),
             "synopsys": String ("Solo es de la obra de teatro"), 
-            "bands": Int ("Solo si es Musical"), 
+            "bands": Int ("Cantidad de artistas que tocaran, Solo si es Musical"), 
             "cartel": [
                 String (cantante/actores),
             ],
