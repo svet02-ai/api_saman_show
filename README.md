@@ -1,4 +1,4 @@
-# 🏟 Documentación saman_show 
+# 🏟 Documentación API saman_show 
 
 
 Esta en la API del proyecto saman_show, en el siguiente url:
