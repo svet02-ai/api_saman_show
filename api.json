@@ -89,7 +89,7 @@
 	],
 	"food_fair_inventory": [{
 			"name": "Coca Cola",
-			"price": 3.99,
+			"price": [1.99,2.99,3.99],
 			"amount": 500,
 			"type": 2
 		},
@@ -109,13 +109,13 @@
 		},
 		{
 			"name": "Jugo",
-			"price": 19.99,
+			"price": [9.99,10.99,11.99],
 			"amount": 250,
 			"type": 2
 		},
 		{
 			"name": "Cerveza",
-			"price": 6.99,
+			"price": [5.99,6.99,7.99],
 			"amount": 300,
 			"type": 2
 		},
