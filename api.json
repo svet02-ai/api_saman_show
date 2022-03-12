@@ -111,13 +111,13 @@
 			"name": "Jugo",
 			"price": 19.99,
 			"amount": 250,
-			"type": 1
+			"type": 2
 		},
 		{
 			"name": "Cerveza",
 			"price": 6.99,
 			"amount": 300,
-			"type": 1
+			"type": 2
 		},
 		{
 			"name": "Doritos",
