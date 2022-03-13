@@ -35,7 +35,7 @@ Usando la librería request de python realizaran una petición GET a dicho URL e
    "food_fair_inventory": [
     {
         "name": String (nombre de la comida),
-        "price": Float (precio de la comida),
+        "price": Float (precio de la comida, si es bebida es una matriz donde [pequeño, mediano, grande]),
         "amount": Int (cantidad de inventario),
         "type": Int ([1]Comida, [2]Bebida),
         "presentation": (Si es comida [1]Preparacion, [2]Empaque)
